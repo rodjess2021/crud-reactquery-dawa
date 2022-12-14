@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "zapatilla",
+      "description": "vans old skool",
+      "price": 300,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "enkore brain",
+      "price": 70,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "laptop",
+      "description": "laptop asus",
+      "price": 2500,
+      "inStock": true
+    },
+    {
+      "name": "audifonos",
+      "description": "haylougt1",
+      "price": "100",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "producto",
+      "description": "producto de prueba",
+      "price": "1",
+      "inStock": false,
+      "id": 6
+    }
+  ]
+}
